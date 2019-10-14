@@ -1,0 +1,49 @@
+
+a,a:hover {
+	color: #e96332;
+}
+
+.intro .page-scroll a:hover {
+	color: #e96332;
+}
+
+.icon:hover .fa{
+	color: #e96332;
+}
+.icon:hover.fa-linkedin-square.fa-3x {
+    color: #2797d0;
+}
+.icon:hover.fa-twitter.fa-3x{
+color: #45bdee;
+}
+
+.icon:hover.fa-facebook-square.fa-3x{
+color: #6281c1;
+}
+
+ul.nav li a:hover {
+	color: #e96332;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #e96332;
+}
+
+.bg-skin {
+	background: #e96332;
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: #e96332;
+}
+
+footer {
+    background-color: #e96332;
+}
+
+.btn-skin {
+  color: #fff;
+  background-color: #e96332;
+  border-color: #e96332;
+}
